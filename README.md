@@ -1,4 +1,4 @@
-# Projeto FinancialCypress
+# Projeto FinancesCypress
 
 Projeto Automação WEB utilizando o frameWork Cypress com o objetivo de validar a pagina: https://devfinance-agilizei.netlify.app/# completando o desafio de trabalhar com clicks em cima dos componentes da tela.
 
