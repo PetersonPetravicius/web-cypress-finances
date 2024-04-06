@@ -2,13 +2,13 @@
 
 Projeto Automação WEB utilizando o frameWork Cypress com o objetivo de validar a pagina: https://devfinance-agilizei.netlify.app/# completando o desafio de trabalhar com clicks em cima dos componentes da tela.
 
-## 🚀 Começando
+## 🚀 Começando 🚀 
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](https://github.com/PetersonPetravicius/financialCypress)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos 📋
 
 
 + [NodeJS v20.12.1 ++](https://nodejs.org/en/download) 
@@ -23,7 +23,7 @@ Realizar a instalação dos programas antes de dar inicio ao clone do projeto.
 
 ```
 
-### 🔧 Instalação
+### 🔧 Instalação 🔧
 
 Ao atender os pré-requisitos, é necesario configurar o [gitBash](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git).
 
@@ -43,7 +43,7 @@ Seguir o artigo detalhado para realizar o Clone deste projeto em sua maquina loc
 
 🏆Se chegou até aqui, então o projeto ja está disponivel para analise e execução dos testes no seu local.🏆 
 
-## ⚙️ Executando os testes
+## ⚙️ Executando os testes ⚙️ 
 
 Para execução dos testes devemos executar no terminal do VS Code ou gitbash a inicialização do node e a instalação do Cypress
 ```
@@ -60,7 +60,7 @@ Os Cenários de testes executaveis estão disponíveis em e2e>financesAppTest.cy
 
 ```
 
-### 🔩 Analise os testes de ponta a ponta
+### 🔩 Analise os testes de ponta a ponta 🔩
 
 Ao fim da execução dos testes, um pequeno report com o resumo das execuções será exibido na guia "Terminal" quando executado 'npx cypress run'.
 
@@ -126,12 +126,12 @@ DevTools listening on ws://127.0.0.1:61338/devtools/browser/1460f876-1596-408c-b
 
 ```
 
-## 📦 Implantação
+## 📦 Implantação 📦
 
 A implantação deste projeto, pode ser realizada utilizando a ferramenta [Jenkins](https://digital.ai/pt/catalyst-blog/how-to-launch-jenkins-selenium-tests-using-the-pipeline/), tornando-o capaz de ser executado a cada nova 
 subida de codigo ao repositorio e execução de pipeline.
 
-## 🛠️ Construído com
+## 🛠️ Construído com 🛠️
 
 Neste projeto as ferramentas adotadas foram:
 
@@ -142,16 +142,16 @@ Neste projeto as ferramentas adotadas foram:
 [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
 
 
-## 📌 Versão
+## 📌 Versão 📌
 
 O projeto se encontra em sua versão 1.1 
 
-## ✒️ Autor
+## ✒️ Autor ✒️
 
 * **Peterson Petravicius** - *Analista de Qualidade* - [LinkedIn](https://www.linkedin.com/in/petersonpk/)
 
 
-## 🎁 Expressões de gratidão
+## 🎁 Expressões de gratidão 🎁
 
 * Este projeto foi uma retomada de conhecimento sobre os conceitos basicos de automação WEB após receber um desafio de implementação 📢;
 * Um binde 🍺;
